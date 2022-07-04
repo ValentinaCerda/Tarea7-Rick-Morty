@@ -1,0 +1,15 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/4be73a46725391.586189506d899.png');
+  
+}
+.card {
+  width: 18rem;
+  margin: auto;
+}
+.card-title {
+  font-size: 30px;
+}
+.specie {
+  font-size: 20px;
+}
